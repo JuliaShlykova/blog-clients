@@ -9,7 +9,7 @@ const CommentForm = ({postid}) => {
 
   const submitForm = async (e) => {
     e.preventDefault();
-    try{
+    try {
       const response = await setComment({
         username,
         text,

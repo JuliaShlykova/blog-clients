@@ -32,6 +32,7 @@ const Post = () => {
       ?<div className="post-container">
         <div className="post-up-image"> </div>
         <div className="post-content">
+          <p className='post-date'>{postInfo.post.formatted_timestamp}</p>
           <h1>{postInfo.post.title}</h1>
           <p className="post-content-text">
             {postInfo.post.text}

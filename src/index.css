@@ -143,9 +143,10 @@ main {
   margin-bottom: 5px;
 }
 
-.first-post-item div .post-date {
+.post-date {
   text-align: right;
   font-size: 0.8rem;
+  margin-top: 5px;
 }
 
 .first-post-item img {
@@ -197,11 +198,6 @@ main {
 .post-item:hover .img-container img{
   max-height: 100%;
   max-height: calc(100% - 10px);
-}
-
-.post-item>div .post-date {
-  font-size: 0.9rem;
-  text-align: right;
 }
 
 .loading-container {
