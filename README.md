@@ -1,5 +1,5 @@
 # Blog (clients segment)
-To see the website visit [blog](https://)
+To see the website visit [blog](https://blog-clients-jet.vercel.app/)
 ## Description
 This project is the part of the [TOP project: blog api](https://www.theodinproject.com/lessons/nodejs-blog-api). This part represents frontend for users that want to read and comment posts.
 **Other parts:**
